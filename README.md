@@ -16,5 +16,5 @@ to find salary trends, in-demand skills, and job opportunities.
 - Matplotlib (charts)
 
 ## Files
-- `analysis.py` — main analysis code
-- `ai_job_market_dataset.csv` — dataset used
+- `analysis.py` - main analysis code
+- `ai_job_market_dataset.csv` - dataset used
